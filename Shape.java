@@ -1,6 +1,6 @@
 public abstract class Shape{
-	protected abstract int x;
-	protected abstract int y;
+	protected int x;
+	protected int y;
 
 	public Shape(){
 
